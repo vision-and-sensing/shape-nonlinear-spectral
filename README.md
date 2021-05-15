@@ -9,5 +9,5 @@ To reproduce results -
 2. Once downloaded, all contained scripts named "script_<some_suffix>.m" can run as is (we used MATLAB R2020a). 
 Each script reproduces a results from the paper
 
-Hopefuly you'll have fun like I did,
-Jonathan
+Enjoy!
+Jonathan Brokman
