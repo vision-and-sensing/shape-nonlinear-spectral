@@ -1,2 +1,13 @@
 # shape-nonlinear-spectral
-original implementation of Borkman, Gilboa 2021
+This project contains the original implementation of
+"Nonlinear Spectral Processing of Shapes via Zero-Homogeneous Flows",
+as presented in SSVM 2021,
+by Jonathan Brokman and Guy Gilboa
+
+To reproduce results - 
+1. Download all the files in their original structure
+2. After downloading, all scripts named "script_<some_suffix>.m" can run as is (we used MATLAB R2020a). 
+Each script reproduces a results from the paper
+
+Hopefuly you'll have fun like I did,
+Jonathan
