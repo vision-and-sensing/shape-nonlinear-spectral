@@ -1,6 +1,8 @@
 # shape-nonlinear-spectral
 This project contains the original implementation of
+
 https://www.springerprofessional.de/en/nonlinear-spectral-processing-of-shapes-via-zero-homogeneous-flo/19119118
+
 by Jonathan Brokman and Guy Gilboa (SSVM 2021)
 
 To reproduce results - 
