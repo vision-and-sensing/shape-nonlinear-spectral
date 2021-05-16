@@ -1,8 +1,7 @@
 # shape-nonlinear-spectral
 This project contains the original implementation of
-"Nonlinear Spectral Processing of Shapes via Zero-Homogeneous Flows",
-as presented in SSVM 2021,
-by Jonathan Brokman and Guy Gilboa
+https://www.springerprofessional.de/en/nonlinear-spectral-processing-of-shapes-via-zero-homogeneous-flo/19119118
+by Jonathan Brokman and Guy Gilboa (SSVM 2021)
 
 To reproduce results - 
 1. Download folder "shape nonlinear spectral" 
