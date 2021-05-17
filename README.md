@@ -1,5 +1,5 @@
 # shape-nonlinear-spectral
-This project contains the original implementation of
+This project contains the original implementation of the paper "Nonlinear Spectral Processing of Shapes via Zero-Homogeneous Flows"
 
 https://www.springerprofessional.de/en/nonlinear-spectral-processing-of-shapes-via-zero-homogeneous-flo/19119118
 
