@@ -5,10 +5,8 @@ by Jonathan Brokman and Guy Gilboa (SSVM 2021).
 
 **What will you find here?**
 An efficient new filtering framework(s) for triangulated mesh processing. Good for smoothing and enhancing mesh features.
-<p align="center">
-	<img src="![Alt text](relative/path/to/img.jpg?raw=true "Title")
-" | height=250>
-</p>
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
+
 
 ## Requirements
 We used MATLAB R2020a
