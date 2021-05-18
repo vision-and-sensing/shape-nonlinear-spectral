@@ -6,7 +6,8 @@ by Jonathan Brokman and Guy Gilboa (SSVM 2021).
 **What will you find here?**
 An efficient new filtering framework(s) for triangulated mesh processing. Good for smoothing and enhancing mesh features.
 <p align="center">
-	<img src="https://somethingsomthing.com/.png" | height=250>
+	<img src="![Alt text](relative/path/to/img.jpg?raw=true "Title")
+" | height=250>
 </p>
 
 ## Requirements
