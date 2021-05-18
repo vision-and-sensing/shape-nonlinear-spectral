@@ -5,7 +5,7 @@ by Jonathan Brokman and Guy Gilboa (SSVM 2021).
 
 **What will you find here?**
 An efficient new filtering framework(s) for triangulated mesh processing. Good for smoothing and enhancing mesh features.
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./Armadil_smooth.png)
 
 
 ## Requirements
